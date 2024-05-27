@@ -1,4 +1,4 @@
-## Hi there 👋
+## नमस्ते Friends. 👋
 
 <!--
 **Bipson-Mukhiya/Bipson-Mukhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
